@@ -1,0 +1,3 @@
+C:\Users\Administrator\Downloads\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\ProcessManager\ProcessManager\obj\Release\ProcessManager.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\ProcessManager\ProcessManager\obj\Release\ProcessManager.csproj.Fody.CopyLocal.cache
+C:\Users\Administrator\Downloads\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\ProcessManager\ProcessManager\obj\Release\ProcessManager.dll
