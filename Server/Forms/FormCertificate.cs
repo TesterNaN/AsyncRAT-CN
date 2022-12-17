@@ -57,9 +57,9 @@ namespace Server.Forms
                         Program.form1.listView1.BeginInvoke((MethodInvoker)(() =>
                         {
                             MessageBox.Show(this, @"
-[!] 如果要升级到AsyncRAT的新版本，则需要复制“ServerCertificate.p12”.
+[!] 如果要升级到AsyncRAT的新版本,则需要复制“ServerCertificate.p12”.
 
-[!] 如果丢失\删除“ServerCertificate”。p12'证书您将无法控制您的被控端，您将失去所有被控端.", "证书", MessageBoxButtons.OK, MessageBoxIcon.Information);
+[!] 如果丢失\删除“ServerCertificate”,p12证书您将无法控制您的被控端,您将失去所有被控端.", "证书", MessageBoxButtons.OK, MessageBoxIcon.Information);
                             this.Close();
                         }));
                     }

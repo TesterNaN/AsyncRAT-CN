@@ -245,7 +245,7 @@ End Namespace
 
         private void AddToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            string reference = Interaction.InputBox("Add Reference", "References", "");
+            string reference = Interaction.InputBox("添加参考", "参考", "");
             if (string.IsNullOrEmpty(reference))
                 return;
             else
