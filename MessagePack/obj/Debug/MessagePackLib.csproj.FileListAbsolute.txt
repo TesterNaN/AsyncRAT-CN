@@ -1,0 +1,6 @@
+C:\Users\Administrator\Downloads\AsyncRAT-C-Sharp-master\AsyncRAT-C#\MessagePack\bin\Debug\MessagePackLib.dll
+C:\Users\Administrator\Downloads\AsyncRAT-C-Sharp-master\AsyncRAT-C#\MessagePack\bin\Debug\MessagePackLib.pdb
+C:\Users\Administrator\Downloads\AsyncRAT-C-Sharp-master\AsyncRAT-C#\MessagePack\obj\Debug\MessagePackLib.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\AsyncRAT-C-Sharp-master\AsyncRAT-C#\MessagePack\obj\Debug\MessagePackLib.csproj.Fody.CopyLocal.cache
+C:\Users\Administrator\Downloads\AsyncRAT-C-Sharp-master\AsyncRAT-C#\MessagePack\obj\Debug\MessagePackLib.dll
+C:\Users\Administrator\Downloads\AsyncRAT-C-Sharp-master\AsyncRAT-C#\MessagePack\obj\Debug\MessagePackLib.pdb
