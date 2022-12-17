@@ -1,0 +1,3 @@
+C:\Users\Administrator\Downloads\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\Options\Options\obj\Release\Options.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\Options\Options\obj\Release\Options.csproj.Fody.CopyLocal.cache
+C:\Users\Administrator\Downloads\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\Options\Options\obj\Release\Options.dll

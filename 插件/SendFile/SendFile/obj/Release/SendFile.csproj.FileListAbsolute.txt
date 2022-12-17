@@ -1,4 +1,0 @@
-C:\Users\Administrator\Downloads\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\SendFile\SendFile\obj\Release\SendFile.csproj.CoreCompileInputs.cache
-C:\Users\Administrator\Downloads\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\SendFile\SendFile\obj\Release\SendFile.csproj.Fody.CopyLocal.cache
-C:\Users\Administrator\Downloads\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\SendFile\SendFile\obj\Release\SendFile.dll
-C:\Users\Administrator\Downloads\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\SendFile\SendFile\obj\Release\SendFile.csprojAssemblyReference.cache

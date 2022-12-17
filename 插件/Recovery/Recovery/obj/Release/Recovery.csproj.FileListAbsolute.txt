@@ -1,6 +1,0 @@
-C:\Users\Administrator\Downloads\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Binaries\Release\Plugins\Recovery.dll
-C:\Users\Administrator\Downloads\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\Recovery\Recovery\obj\Release\Recovery.csproj.CoreCompileInputs.cache
-C:\Users\Administrator\Downloads\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\Recovery\Recovery\obj\Release\Recovery.csproj.Fody.CopyLocal.cache
-C:\Users\Administrator\Downloads\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\Recovery\Recovery\obj\Release\Recovery.csproj.CopyComplete
-C:\Users\Administrator\Downloads\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\Recovery\Recovery\obj\Release\Recovery.dll
-C:\Users\Administrator\Downloads\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\Recovery\Recovery\obj\Release\Recovery.csprojAssemblyReference.cache

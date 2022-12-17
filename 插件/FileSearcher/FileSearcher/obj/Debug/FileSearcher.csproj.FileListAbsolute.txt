@@ -1,7 +1,0 @@
-C:\Users\Administrator\Downloads\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Binaries\Debug\Plugins\FileSearcher.dll
-C:\Users\Administrator\Downloads\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Binaries\Debug\Plugins\FileSearcher.pdb
-C:\Users\Administrator\Downloads\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\FileSearcher\FileSearcher\obj\Debug\FileSearcher.csprojAssemblyReference.cache
-C:\Users\Administrator\Downloads\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\FileSearcher\FileSearcher\obj\Debug\FileSearcher.csproj.CoreCompileInputs.cache
-C:\Users\Administrator\Downloads\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\FileSearcher\FileSearcher\obj\Debug\FileSearcher.csproj.Fody.CopyLocal.cache
-C:\Users\Administrator\Downloads\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\FileSearcher\FileSearcher\obj\Debug\FileSearcher.dll
-C:\Users\Administrator\Downloads\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\FileSearcher\FileSearcher\obj\Debug\FileSearcher.pdb

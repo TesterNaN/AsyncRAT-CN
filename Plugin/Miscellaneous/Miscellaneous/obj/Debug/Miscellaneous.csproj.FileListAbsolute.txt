@@ -1,0 +1,6 @@
+C:\Users\Administrator\Downloads\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\Miscellaneous\Miscellaneous\obj\Debug\Miscellaneous.Properties.Resources.resources
+C:\Users\Administrator\Downloads\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\Miscellaneous\Miscellaneous\obj\Debug\Miscellaneous.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\Miscellaneous\Miscellaneous\obj\Debug\Miscellaneous.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\Miscellaneous\Miscellaneous\obj\Debug\Miscellaneous.csproj.Fody.CopyLocal.cache
+C:\Users\Administrator\Downloads\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\Miscellaneous\Miscellaneous\obj\Debug\Miscellaneous.dll
+C:\Users\Administrator\Downloads\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\Miscellaneous\Miscellaneous\obj\Debug\Miscellaneous.pdb

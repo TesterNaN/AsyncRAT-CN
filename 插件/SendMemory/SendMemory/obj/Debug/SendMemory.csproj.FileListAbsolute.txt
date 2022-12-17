@@ -1,4 +1,0 @@
-C:\Users\Administrator\Downloads\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\SendMemory\SendMemory\obj\Debug\SendMemory.csproj.CoreCompileInputs.cache
-C:\Users\Administrator\Downloads\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\SendMemory\SendMemory\obj\Debug\SendMemory.csproj.Fody.CopyLocal.cache
-C:\Users\Administrator\Downloads\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\SendMemory\SendMemory\obj\Debug\SendMemory.dll
-C:\Users\Administrator\Downloads\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\SendMemory\SendMemory\obj\Debug\SendMemory.pdb

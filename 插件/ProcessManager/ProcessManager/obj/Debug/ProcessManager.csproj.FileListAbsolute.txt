@@ -1,5 +1,0 @@
-C:\Users\Administrator\Downloads\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\ProcessManager\ProcessManager\obj\Debug\ProcessManager.csprojAssemblyReference.cache
-C:\Users\Administrator\Downloads\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\ProcessManager\ProcessManager\obj\Debug\ProcessManager.csproj.CoreCompileInputs.cache
-C:\Users\Administrator\Downloads\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\ProcessManager\ProcessManager\obj\Debug\ProcessManager.csproj.Fody.CopyLocal.cache
-C:\Users\Administrator\Downloads\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\ProcessManager\ProcessManager\obj\Debug\ProcessManager.dll
-C:\Users\Administrator\Downloads\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\ProcessManager\ProcessManager\obj\Debug\ProcessManager.pdb

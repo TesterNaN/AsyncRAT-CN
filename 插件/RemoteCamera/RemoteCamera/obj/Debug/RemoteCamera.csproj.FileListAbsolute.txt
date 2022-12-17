@@ -1,4 +1,0 @@
-C:\Users\Administrator\Downloads\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\RemoteCamera\RemoteCamera\obj\Debug\RemoteCamera.csproj.CoreCompileInputs.cache
-C:\Users\Administrator\Downloads\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\RemoteCamera\RemoteCamera\obj\Debug\RemoteCamera.csproj.Fody.CopyLocal.cache
-C:\Users\Administrator\Downloads\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\RemoteCamera\RemoteCamera\obj\Debug\RemoteCamera.dll
-C:\Users\Administrator\Downloads\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\RemoteCamera\RemoteCamera\obj\Debug\RemoteCamera.pdb

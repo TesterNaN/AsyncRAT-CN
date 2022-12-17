@@ -1,0 +1,3 @@
+C:\Users\Administrator\Downloads\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\RemoteDesktop\RemoteDesktop\obj\Release\RemoteDesktop.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\RemoteDesktop\RemoteDesktop\obj\Release\RemoteDesktop.csproj.Fody.CopyLocal.cache
+C:\Users\Administrator\Downloads\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\RemoteDesktop\RemoteDesktop\obj\Release\RemoteDesktop.dll
