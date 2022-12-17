@@ -1,0 +1,5 @@
+C:\Users\Administrator\Downloads\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\LimeLogger\LimeLogger\obj\Debug\LimeLogger.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\LimeLogger\LimeLogger\obj\Debug\LimeLogger.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\LimeLogger\LimeLogger\obj\Debug\LimeLogger.csproj.Fody.CopyLocal.cache
+C:\Users\Administrator\Downloads\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\LimeLogger\LimeLogger\obj\Debug\LimeLogger.dll
+C:\Users\Administrator\Downloads\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\LimeLogger\LimeLogger\obj\Debug\LimeLogger.pdb
